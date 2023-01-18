@@ -14,7 +14,6 @@ const receivers = [
     email: "saqibdiar.uet@gmail.com",
   },
 ];
-console.log(tranEmailApi);
 tranEmailApi
   .sendTransacEmail({
     sender,
